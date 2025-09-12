@@ -1,6 +1,5 @@
 # 📚 Console Library System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 ![Language](https://img.shields.io/badge/C%23-8.0-blueviolet)  
 ![Platform](https://img.shields.io/badge/.NET-8.0-green)  
 
