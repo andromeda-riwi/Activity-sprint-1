@@ -56,7 +56,6 @@ The project consists of a single Program.cs file, which covers:
 
 - Fork the repository
 - Create your feature branch
-git checkout -b feature/my-feature
 - Commit your changes following Conventional Commits
 - Push your branch
 - Open a Pull Request
