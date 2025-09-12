@@ -69,11 +69,6 @@ The project consists of a single Program.cs file, which covers:
 - Olaya Ariza Jeison David
 - Taborda Echavarría Abrahan
 
-## 📄 License
-
-Distributed under the MIT License.
-See the LICENSE file for details.
-
 ## 🐞 Known Issues
 
 No major issues reported yet. Feel free to open an issue if you find one.
