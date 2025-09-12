@@ -21,12 +21,12 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'sprint-1', // Apunta al archivo sprint-1.md
+          id: 'intro', // Apunta al archivo sprint-1.md
           label: 'Sprint 1 - Enunciado del Proyecto',
         },
         {
           type: 'doc',
-          id: 'documentacion-tecnica', // Apunta al nuevo archivo de documentación técnica
+          id: 'documentacion_tecnica', // Apunta al nuevo archivo de documentación técnica
           label: 'Documentación Técnica y Diagrama de Flujo',
         },
       ],
