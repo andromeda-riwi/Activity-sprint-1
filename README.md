@@ -74,6 +74,6 @@ The project consists of a single Program.cs file, which covers:
 Distributed under the MIT License.
 See the LICENSE file for details.
 
-##🐞 Known Issues
+## 🐞 Known Issues
 
 No major issues reported yet. Feel free to open an issue if you find one.
