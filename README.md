@@ -44,6 +44,9 @@ The project consists of a single Program.cs file, which covers:
 
 ## Example console interaction:
 
+<img width="308" height="223" alt="image" src="https://github.com/user-attachments/assets/ed7823e3-f8f6-4633-a6fa-6f21b24d722e" />
+
+
 ## 🖥️ Technologies
 
 - C# 12
