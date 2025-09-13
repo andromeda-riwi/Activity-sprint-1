@@ -42,7 +42,12 @@ The project consists of a single Program.cs file, which covers:
 - 📊 General & detailed statistics
 - ▶️ Usage
 
-## Example console interaction:
+### Flow diagram:
+
+<img width="599" height="991" alt="Diagrama de flujo" src="https://github.com/user-attachments/assets/42f36a47-c471-484c-8b2e-b0ed34ca9e27" />
+
+
+### Example console interaction:
 
 <img width="308" height="223" alt="image" src="https://github.com/user-attachments/assets/ed7823e3-f8f6-4633-a6fa-6f21b24d722e" />
 
